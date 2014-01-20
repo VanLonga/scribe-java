@@ -11,18 +11,16 @@
         </sealing>
     </manifest>
     <selectedElements exportClassFiles="true" exportJavaFiles="true" exportOutputFolder="false">
-        <file path="/scribe/LICENSE.txt"/>
-        <folder path="/scribe/src"/>
-        <file path="/scribe/changelog.txt"/>
-        <file path="/scribe/pom.xml"/>
-        <file path="/scribe/.classpath"/>
-        <file path="/scribe/README.md"/>
         <file path="/scribe/.travis.yml"/>
         <file path="/scribe/.project"/>
-        <folder path="/scribe/target"/>
         <file path="/scribe/bundle"/>
+        <file path="/scribe/LICENSE.txt"/>
+        <file path="/scribe/changelog.txt"/>
         <file path="/scribe/.gitignore"/>
+        <file path="/scribe/pom.xml"/>
         <javaElement handleIdentifier="=scribe/src\/main\/java"/>
+        <file path="/scribe/.classpath"/>
         <file path="/scribe/jarbuilder.jardesc"/>
+        <file path="/scribe/README.md"/>
     </selectedElements>
 </jardesc>
