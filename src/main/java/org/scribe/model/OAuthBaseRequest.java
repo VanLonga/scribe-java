@@ -71,4 +71,9 @@ public interface OAuthBaseRequest {
      * @return a {@link ParameterList}containing the body parameters.
      */
     public ParameterList getBodyParams();
+    
+    /**
+     * Returns a realm
+     */
+    public String getRealm();
 }
